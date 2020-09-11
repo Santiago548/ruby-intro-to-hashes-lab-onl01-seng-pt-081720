@@ -5,6 +5,11 @@ end
 def actor
   new_hash={name: "Dwayne The Rock Johnson"}
 end
+
+def monopoly
+  monopoly = { railroads: {}}
+  
+end
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 
 
