@@ -4,7 +4,7 @@ end
 
 def actor
   new_hash = name: "The Rock Johnson"
-  
+
 end
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 
